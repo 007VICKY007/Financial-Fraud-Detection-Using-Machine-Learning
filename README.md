@@ -1,24 +1,24 @@
-Download Files and Organize:
-Download all the files related to the project and save them in a separate folder on your local machine.
-Install Required Libraries:
-Ensure you have Python installed on your system.
-Install necessary libraries like pandas, numpy, scikit-learn, Streamlit, etc. You can install them using pip:
-Copy code
-pip install pandas numpy scikit-learn streamlit
-Open VSCode and Create a New Folder:
-Open Visual Studio Code (VSCode) and create a new folder for your project.
-Copy Files to the Folder:
-Copy all the downloaded files into this folder.
-Open VSCode Terminal:
-In VSCode, open a new terminal within the folder you just created.
-Run Streamlit:
-Run the command streamlit run frontend.py in the terminal.
-This will start a Streamlit server hosting your application.
-Access the Application:
-Once Streamlit starts without errors, it will provide a local URL (usually http://localhost:8501) where you can access your application.
-Open your web browser and navigate to this URL.
-Interact with the Application:
-You should now see the frontend of your financial fraud detection system.
-Interact with the application as intended, inputting data or using any features provided.
-Test the System:
-Test the system thoroughly with different inputs to ensure it functions correctly.
+ Apologies for the confusion. Here's a more detailed explanation for the GitHub README and how to install and run the financial fraud detection system:
+
+### Financial Fraud Detection System
+
+This project sets up a financial fraud detection system using Python. It leverages pandas, numpy, scikit-learn, and Streamlit for a user-friendly interface.
+
+#### Installation
+1. **Python Installation:** Ensure Python is installed on your system. If not, download and install Python from the official website.
+2. **Library Installation:** Install necessary libraries using pip. Open a terminal or command prompt and run the following command:
+   ```bash
+   pip install pandas numpy scikit-learn streamlit
+   ```
+
+#### Usage
+1. **Project Setup:** Open Visual Studio Code (VSCode) and create a new folder for the project. Download all project-related files and save them in this folder.
+2. **Run Streamlit Server:** Open a new terminal within the project folder in VSCode. Start the Streamlit server by running the following command:
+   ```bash
+   streamlit run frontend.py
+   ```
+3. **Access the Application:** Once the server starts without errors, it will provide a local URL (usually http://localhost:8501). Access this URL in your web browser.
+4. **Interact with the Application:** You should now see the frontend of the financial fraud detection system. Interact with the application as intended by inputting data or using any features provided.
+5. **Testing:** Thoroughly test the system with different inputs to ensure it functions correctly and accurately detects fraudulent activities.
+
+Feel free to customize and expand upon this information to provide more specific details about the project and its functionalities. Also, include any additional setup instructions, usage guidelines, and system requirements relevant to your project.  

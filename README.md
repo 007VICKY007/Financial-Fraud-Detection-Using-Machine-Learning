@@ -1,4 +1,4 @@
- Apologies for the confusion. Here's a more detailed explanation for the GitHub README and how to install and run the financial fraud detection system:
+
 
 ### Financial Fraud Detection System
 
